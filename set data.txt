@@ -1,0 +1,1 @@
+Set-Date "terça-feira, 26 de maio de 2020 10:19:00"
